@@ -1,0 +1,279 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": false,
+        "collection_image_enable": false,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "banner": {
+          "type": "banner",
+          "disabled": true,
+          "settings": {
+            "heading": "{{ collection.metafields.custom.banner_promotion_title.value }}",
+            "text": "{{ collection.metafields.custom.banner_text.value }}",
+            "link": "",
+            "label": "",
+            "color_tint": "#414042",
+            "color_tint_opacity": 8,
+            "framed": true
+          }
+        },
+        "93e16329-77ce-4447-bcde-71de93905aeb": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "INTRODUCING ALTINA'S",
+            "heading": "SPRING 23 COLLECTION",
+            "textarea": "The Celebrate Collection + PARC Pilsner",
+            "cta_text1": "Get the $80 Taster Pack",
+            "cta_link1": "shopify:\/\/products\/celebrate-parc-launch-bundle",
+            "cta_text2": "SHOP ALL BELOW",
+            "cta_link2": "#id=shopify-section-template--21422539276599__main-collection",
+            "image": "shopify:\/\/shop_images\/Celebrate_Range_2880_x_1620_px.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": true,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "banner",
+        "93e16329-77ce-4447-bcde-71de93905aeb"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 1,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": false
+      }
+    },
+    "04c32556-57c0-4f6b-b15c-a9c740471022": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--21422539276599__04c32556-57c0-4f6b-b15c-a9c740471022-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "template--21422539276599__04c32556-57c0-4f6b-b15c-a9c740471022-advanced-2": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21422539276599__04c32556-57c0-4f6b-b15c-a9c740471022-advanced-1",
+        "template--21422539276599__04c32556-57c0-4f6b-b15c-a9c740471022-advanced-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
+    "aa8fb45a-3de1-4418-965a-018124425fff": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21422539276599__aa8fb45a-3de1-4418-965a-018124425fff-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Discover a World of Elegance, Joy and Sparkling Moments"
+          }
+        },
+        "template--21422539276599__aa8fb45a-3de1-4418-965a-018124425fff-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Welcome to ALTINA's Celebrate Collection - a curation of three non-alcoholic sparkling wines that redefine celebrations. A tribute to life, togetherness, and the joy of raising a glass to moments that matter. <\/p><p>Crafted with premium de-alcoholised wine and infused with Native Australian botanicals, our Sparkling Brut, Sparkling Rosé, and Sparkling Sangria are designed to elevate every occasion. Pop the cork and let the festivities begin!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21422539276599__aa8fb45a-3de1-4418-965a-018124425fff-heading-1",
+        "template--21422539276599__aa8fb45a-3de1-4418-965a-018124425fff-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "101d9d72-e5d7-4c59-bc0e-58517fb4ce31": {
+          "type": "subcollections",
+          "disabled": true,
+          "settings": {
+            "subcollections_per_row": 4
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 3,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        },
+        "collection_description": {
+          "type": "collection_description",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "101d9d72-e5d7-4c59-bc0e-58517fb4ce31",
+        "product_grid",
+        "collection_description"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    },
+    "0a65e943-f3b9-44e9-bef6-215c42c990d7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21422539276599__0a65e943-f3b9-44e9-bef6-215c42c990d7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "template--21422539276599__0a65e943-f3b9-44e9-bef6-215c42c990d7-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3>ALTINA Sparkling Brut - A Toast to Elegance<\/h3><p>Crafted in the style of a Sparkling Brut Chardonnay, this non-alcoholic masterpiece boasts top notes of Native Australian Peach (Quandong) and strawberry, supported by a bright acidity and toasty vanilla undertones. <\/p><h3>ALTINA Sparkling Rosé - An Ode to Joy<\/h3><p>Delight in its rosy hue and layered notes of bright crunchy fruit, tart native Rosella, and a hint of citrus. A non-alcoholic drink that dances on the palate with crisp, lively bubbles and a dry finish. <\/p><h3>ALTINA Sparkling Sangria - A Fusion of Flavors<\/h3><p>A celebration of bold red fruits and native Riberry, delicately layered with sweet orange. The refreshing bubbles give way to a complex and invigorating finish, boasting a hint of spice and vanilla. *Please note this currently has a crown cap, not a cork*.<\/p><h3>PARC Pils - The Epitome of Refreshment<\/h3><p>Brewed in the timeless Czech style, this non-alcoholic pilsner is a super fresh, pale lager that embodies crispness and a clean, refreshingly bitter taste. Bursting with bright character and aroma, it's the best non-alcoholic beer for those seeking an easy-drinking craft beer experience.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21422539276599__0a65e943-f3b9-44e9-bef6-215c42c990d7-heading-1",
+        "template--21422539276599__0a65e943-f3b9-44e9-bef6-215c42c990d7-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "04070cf5-b3f1-4f80-9eeb-d6f60c0cf9ef": {
+      "type": "testimonials",
+      "blocks": {
+        "template--21422539276599__04070cf5-b3f1-4f80-9eeb-d6f60c0cf9ef-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I love your Sav Blanc, but this sparkling is next level. I could enjoy a whole bottle of  these bubbles to myself.<\/p>",
+            "author": "Narelle W.",
+            "author_info": "Sparkling Brut"
+          }
+        },
+        "template--21422539276599__04070cf5-b3f1-4f80-9eeb-d6f60c0cf9ef-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Very hard to get the taste right for non-alc beer and Altina have hit the nail on the head with this one. Well done!<\/p>",
+            "author": "Justine O.",
+            "author_info": "Parc Pilsner"
+          }
+        },
+        "template--21422539276599__04070cf5-b3f1-4f80-9eeb-d6f60c0cf9ef-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>This is truly a very special Rose. There is a lot to love about these bubbles, it has a fruity aroma, with a wonderfully complex flavour and a glorious colour in the glass.<\/p>",
+            "author": "Lizzie S.",
+            "author_info": "Sparkling Rose"
+          }
+        },
+        "3f28dd4b-ad01-4898-b98a-80107aba699a": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Sansgria is turning me into a non-alcoholic alcoholic! So unbelievably good. My favourite non-alc drop across all types. I have to stop myself from opening one every night!<\/p>",
+            "author": "Sally B.",
+            "author_info": "Sansgria"
+          }
+        }
+      },
+      "block_order": [
+        "template--21422539276599__04070cf5-b3f1-4f80-9eeb-d6f60c0cf9ef-testimonial-1",
+        "template--21422539276599__04070cf5-b3f1-4f80-9eeb-d6f60c0cf9ef-testimonial-2",
+        "template--21422539276599__04070cf5-b3f1-4f80-9eeb-d6f60c0cf9ef-testimonial-3",
+        "3f28dd4b-ad01-4898-b98a-80107aba699a"
+      ],
+      "settings": {
+        "title": "REVIEWS",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "promo-grid",
+    "04c32556-57c0-4f6b-b15c-a9c740471022",
+    "aa8fb45a-3de1-4418-965a-018124425fff",
+    "main-collection",
+    "0a65e943-f3b9-44e9-bef6-215c42c990d7",
+    "04070cf5-b3f1-4f80-9eeb-d6f60c0cf9ef"
+  ]
+}

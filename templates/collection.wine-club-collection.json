@@ -1,0 +1,316 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "banner": {
+          "type": "banner",
+          "disabled": true,
+          "settings": {
+            "heading": "{{ collection.metafields.custom.banner_promotion_title.value }}",
+            "text": "{{ collection.metafields.custom.banner_text.value }}",
+            "link": "",
+            "label": "",
+            "color_tint": "#414042",
+            "color_tint_opacity": 8,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "banner"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 1,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": false
+      }
+    },
+    "efde7b9c-385c-46ec-b4ee-59f8195ee268": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "bundles",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-sparkling-collection",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-liberate-collection",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "8f6de35b-fff7-4885-a426-82b05254a0bc": {
+          "type": "collection",
+          "settings": {
+            "collection": "build-your-own-bundle",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-0",
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-1",
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-2",
+        "8f6de35b-fff7-4885-a426-82b05254a0bc"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "rich_text_YTUaCG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RAFV87": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "SUBSCRIBE AND SAVE"
+          }
+        },
+        "text_m9d46E": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Welcome to ALTINA Wine Club, where exceptional<br\/>taste meets community and sustainability. As a member, you'll enjoy exclusive<br\/>benefits designed to enhance your non-alcoholic wine experience.<\/p><p><strong>ALTINA WINE CLUB.<\/strong> For you. For your community. For the planet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RAFV87",
+        "text_m9d46E"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured_product_3JAHMq": {
+      "type": "featured-product",
+      "blocks": {
+        "price_PzLNYW": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_9mRmdH": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_GUK6hE": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_M8r7CJ": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_PzLNYW",
+        "description_9mRmdH",
+        "variant_picker_GUK6hE",
+        "buy_buttons_M8r7CJ"
+      ],
+      "settings": {
+        "featured_product": "",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "text_with_icons_fDjdAh": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_hAzdG8": {
+          "type": "text_block",
+          "settings": {
+            "icon": "wallet",
+            "title": "SAVE 10% ON EVERY ORDER",
+            "text": "<p>On every subscription order, you get 10% off our regular prices. Prices starting as low as $16.35 per bottle, and $4.50 per can<\/p>"
+          }
+        },
+        "text_block_aeeii9": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "EASY, FREE SHIPPING",
+            "text": "<p>Products are shipped to you free, on your schedule. <\/p>"
+          }
+        },
+        "text_block_wMHcUX": {
+          "type": "text_block",
+          "settings": {
+            "icon": "thumbs-up",
+            "title": "EASY AND FLEXIBLE",
+            "text": "<p>Swap products, skip or gift a shipment, update your details and more, from your own dashboard. Or drop us an email and we'll help you out.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_hAzdG8",
+        "text_block_aeeii9",
+        "text_block_wMHcUX"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_YR8Lb8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Capture.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "SIGN UP TODAY",
+        "title": "CHOOSE SUBSCRIBE AND SAVE",
+        "text": "<p>Then select your delivery frequency and proceed to checkout.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "101d9d72-e5d7-4c59-bc0e-58517fb4ce31": {
+          "type": "subcollections",
+          "settings": {
+            "subcollections_per_row": 4
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 3,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        },
+        "collection_description": {
+          "type": "collection_description",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "101d9d72-e5d7-4c59-bc0e-58517fb4ce31",
+        "product_grid",
+        "collection_description"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_swatch_labels": true,
+        "enable_sort": false
+      }
+    },
+    "faq_ECAza3": {
+      "type": "faq",
+      "blocks": {
+        "question_tWBLNN": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "question_WHFYca": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_tWBLNN",
+        "question_WHFYca"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "promo-grid",
+    "efde7b9c-385c-46ec-b4ee-59f8195ee268",
+    "rich_text_YTUaCG",
+    "featured_product_3JAHMq",
+    "text_with_icons_fDjdAh",
+    "text_and_image_YR8Lb8",
+    "main-collection",
+    "faq_ECAza3"
+  ]
+}

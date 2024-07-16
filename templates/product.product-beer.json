@@ -1,0 +1,291 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "f7f1d15b-3bbf-47ff-9ef4-8e4eba4718a9": {
+          "type": "shopify:\/\/apps\/okendo\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "tag",
+            "text": "**SUBSCRIBE AND SAVE SPECIAL OFFER** 40% OFF YOUR FIRST BOX WHEN YOU SUBSCRIBE TO MONTHLY DELIVERIES (10% off on subsequent orders)"
+          }
+        },
+        "35f53f53-0e1c-4623-9c69-abaff7236e7e": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "ribbon",
+            "text": "World Alcohol Free Awards Medal Winner"
+          }
+        },
+        "e00cea5b-b945-424f-bfd6-b820b585c0df": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "847ab8cb-d733-4c9b-b292-507cd5fb4c2f": {
+          "type": "tab",
+          "settings": {
+            "title": "Pairs Perfectly",
+            "content": "{{ product.metafields.custom.pairs_perfectly_tab | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "30904960-4317-43be-b699-064bb8b43bf3": {
+          "type": "tab",
+          "settings": {
+            "title": "What's in the Box",
+            "content": "{{ product.metafields.custom.what_s_in_the_box_tab | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "dafdfd7d-8841-46ff-b508-a7f40af4c0c3": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingredients",
+            "content": "{{ product.metafields.custom.ingredients_tab | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "faaac5f2-ed2c-4c07-930f-3ea1398663ef": {
+          "type": "tab",
+          "settings": {
+            "title": "Nutrition Information",
+            "content": "{{ product.metafields.custom.nutrition_panel | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping Information",
+            "content": "",
+            "page": "shipping"
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "4d0e1c63-b616-4665-ace0-e30d223ad932": {
+          "type": "complementary_products",
+          "settings": {
+            "product_complementary_heading": "MAKE IT AN EXPERIENCE...",
+            "complementary_count": 3,
+            "per_slide": 3,
+            "control_type": "dots",
+            "image_style": "default"
+          }
+        }
+      },
+      "block_order": [
+        "f7f1d15b-3bbf-47ff-9ef4-8e4eba4718a9",
+        "price",
+        "separator",
+        "sales_point",
+        "35f53f53-0e1c-4623-9c69-abaff7236e7e",
+        "e00cea5b-b945-424f-bfd6-b820b585c0df",
+        "buy_buttons",
+        "description",
+        "847ab8cb-d733-4c9b-b292-507cd5fb4c2f",
+        "30904960-4317-43be-b699-064bb8b43bf3",
+        "dafdfd7d-8841-46ff-b508-a7f40af4c0c3",
+        "faaac5f2-ed2c-4c07-930f-3ea1398663ef",
+        "tab",
+        "contact",
+        "4d0e1c63-b616-4665-ace0-e30d223ad932"
+      ],
+      "custom_css": [
+        ".product__policies.rte.small--text-center {display: none;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_height": "fixed",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "settings": {
+        "max_width": true
+      }
+    },
+    "51cb8489-f3c1-4557-b1b7-a7ca24f88ce2": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--19194116276535__51cb8489-f3c1-4557-b1b7-a7ca24f88ce2-1684575292d4aa05b5-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "thumbs-up",
+            "title": "No added sugar",
+            "text": "<p>No added sweeteners or grape juice concentrates either. Just delicious low calorie wines.<\/p>"
+          }
+        },
+        "template--19194116276535__51cb8489-f3c1-4557-b1b7-a7ca24f88ce2-1684575292d4aa05b5-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "better for you",
+            "text": "<p>All our wines are vegan, gluten free and contain beautiful health-giving native ingredients.<\/p>"
+          }
+        },
+        "template--19194116276535__51cb8489-f3c1-4557-b1b7-a7ca24f88ce2-1684575292d4aa05b5-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "charity",
+            "title": "Made in australia",
+            "text": "<p>We're a small, family business, passionate about one thing: making incredible non-alc. drinks.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19194116276535__51cb8489-f3c1-4557-b1b7-a7ca24f88ce2-1684575292d4aa05b5-2",
+        "template--19194116276535__51cb8489-f3c1-4557-b1b7-a7ca24f88ce2-1684575292d4aa05b5-1",
+        "template--19194116276535__51cb8489-f3c1-4557-b1b7-a7ca24f88ce2-1684575292d4aa05b5-0"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "16845552559921ddc8": {
+      "type": "apps",
+      "blocks": {
+        "5f34cc20-f641-45f6-ac6c-3f4ef8d7b2d8": {
+          "type": "shopify:\/\/apps\/okendo\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "5f34cc20-f641-45f6-ac6c-3f4ef8d7b2d8"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Altina_28.jpg",
+        "image_mask": "square",
+        "image2_mask": "square",
+        "subtitle": "HOW WE MAKE OUR",
+        "title": "NON ALC. WINES",
+        "text": "<p>We remove the alcohol from premium Australian wine and blend it with beautiful botanicals and native Australian ingredients. We don't add any sugars or grape juice concentrate, so our wines are dry (not sweet). The result is a beautifully nuanced, complex non alcoholic drink that mimics the experience of a fine wine. <\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/our-drinks",
+        "button_style": "secondary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text-and-image2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Altina_Personal_Branding_2_cropped.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "OUR STORY",
+        "title": "MEET THE FOUNDERS",
+        "text": "<p>We're Alan and Christina (Al-tina!), partners in business and life.<\/p><p>We used to enjoy a wine (or ten), but cut back for health reasons. We couldn't find a non-alc. drink we enjoyed, so decided to create one. We wanted something that wasn't full of sugars or artificial additives, and something that gave us the same experience as an alcoholic wine.<\/p><p>Christina is our scientist and has a Ph.D. in Plant Science and a Bachelor of Chemical Biotechnology. She's the one behind our innovative recipes and processes. <\/p><p>Alan is the driving force behind our national sales, making sure we're on shelves and menus around the country.<\/p><p>We've been making change in the non-alc. space since 2018 and look forward to helping you find your new favourite non-alcoholic alternative.<\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/our-story",
+        "button_style": "secondary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5,
+        "products_per_row": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 5
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "51cb8489-f3c1-4557-b1b7-a7ca24f88ce2",
+    "16845552559921ddc8",
+    "text-and-image",
+    "text-and-image2",
+    "product-recommendations",
+    "collection-return",
+    "recently-viewed"
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": false,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "banner": {
+          "type": "banner",
+          "disabled": true,
+          "settings": {
+            "heading": "{{ collection.metafields.custom.banner_promotion_title.value }}",
+            "text": "{{ collection.metafields.custom.banner_text.value }}",
+            "link": "",
+            "label": "",
+            "color_tint": "#414042",
+            "color_tint_opacity": 8,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "banner"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 1,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": false
+      }
+    },
+    "efde7b9c-385c-46ec-b4ee-59f8195ee268": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "bundles",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-sparkling-collection",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-liberate-collection",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "8f6de35b-fff7-4885-a426-82b05254a0bc": {
+          "type": "collection",
+          "settings": {
+            "collection": "build-your-own-bundle",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-0",
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-1",
+        "template--19102058840375__efde7b9c-385c-46ec-b4ee-59f8195ee268-16847133562142a49c-2",
+        "8f6de35b-fff7-4885-a426-82b05254a0bc"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "rich_text_YTUaCG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RAFV87": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "SUBSCRIBE AND SAVE"
+          }
+        },
+        "text_m9d46E": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p> Love our drinks? Want to have some on hand all the time?<\/p><p>Then our subscription option is perfect for you - get your favourite drinks delivered to your door every 1, 2 or 3 months. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RAFV87",
+        "text_m9d46E"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_with_icons_fDjdAh": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_hAzdG8": {
+          "type": "text_block",
+          "settings": {
+            "icon": "wallet",
+            "title": "SAVE 10% ON EVERY ORDER",
+            "text": "<p>On every subscription order, you get 10% off our regular prices. Prices starting as low as $16.35 per bottle, and $4.50 per can<\/p>"
+          }
+        },
+        "text_block_aeeii9": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "EASY, FREE SHIPPING",
+            "text": "<p>Products are shipped to you free, on your schedule. <\/p>"
+          }
+        },
+        "text_block_wMHcUX": {
+          "type": "text_block",
+          "settings": {
+            "icon": "thumbs-up",
+            "title": "EASY AND FLEXIBLE",
+            "text": "<p>Swap products, skip or gift a shipment, update your details and more, from your own dashboard. Or drop us an email and we'll help you out.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_hAzdG8",
+        "text_block_aeeii9",
+        "text_block_wMHcUX"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_YR8Lb8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Capture.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "SIGN UP TODAY",
+        "title": "CHOOSE SUBSCRIBE AND SAVE",
+        "text": "<p>Then select your delivery frequency and proceed to checkout.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "101d9d72-e5d7-4c59-bc0e-58517fb4ce31": {
+          "type": "subcollections",
+          "settings": {
+            "subcollections_per_row": 4
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 3,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        },
+        "collection_description": {
+          "type": "collection_description",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "101d9d72-e5d7-4c59-bc0e-58517fb4ce31",
+        "product_grid",
+        "collection_description"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "promo-grid",
+    "efde7b9c-385c-46ec-b4ee-59f8195ee268",
+    "rich_text_YTUaCG",
+    "text_with_icons_fDjdAh",
+    "text_and_image_YR8Lb8",
+    "main-collection"
+  ]
+}

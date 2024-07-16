@@ -1,0 +1,186 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "5199dd61-b56f-43a6-b6a3-6a106fd24224": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19314501255479__5199dd61-b56f-43a6-b6a3-6a106fd24224-1685334966a92611b8-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "GORGEOUS GIFT IDEAS WITHOUT THE BOOZE",
+            "title_size": 56,
+            "subheading": "ALTINA has a range of beautiful gift packs for all occasions",
+            "link": "shopify:\/\/pages\/contact-us",
+            "link_text": "Contact Us",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Altina_Website_Carousel.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "template--19314501255479__5199dd61-b56f-43a6-b6a3-6a106fd24224-1685334966a92611b8-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "80ac37cb-df3d-48b7-98ac-34c31241e15f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19314501255479__80ac37cb-df3d-48b7-98ac-34c31241e15f-1685335070b34bb842-0": {
+          "type": "heading",
+          "settings": {
+            "title": "CORPORATE GIFTING"
+          }
+        },
+        "template--19314501255479__80ac37cb-df3d-48b7-98ac-34c31241e15f-1685335070b34bb842-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Build an inclusive social culture at your office and with your clients. We would love to discuss  ALTINA corporate gift and drink options for your workplace.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19314501255479__80ac37cb-df3d-48b7-98ac-34c31241e15f-1685335070b34bb842-0",
+        "template--19314501255479__80ac37cb-df3d-48b7-98ac-34c31241e15f-1685335070b34bb842-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "d2603894-01bc-48d2-ba06-b33e1118f80f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Altina_28.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Gifts",
+        "text": "<p>More and more people are choosing to make a lifestyle change to drink less alcohol or to not drink at all.  Choosing an alcohol free drink as a gift removes any risk of offence and most people are curious to try something new. Browse our shop and get in touch for bulk pricing.<\/p>",
+        "button_label": "BROWSE SHOP",
+        "button_link": "shopify:\/\/collections\/our-new-look-collection",
+        "button_style": "secondary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "51077f68-a653-448d-b201-a4487581a444": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Altina_27.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Drinks",
+        "text": "<p>Make Friday night work drinks a safe place for everyone to relax and bond.  Serving alcohol free drinks creates an inclusive and welcoming atmosphere.<\/p><p>We have something for everyone. Shop now or get in touch for bulk pricing.<\/p>",
+        "button_label": "Browse Shop",
+        "button_link": "shopify:\/\/collections\/our-new-look-collection",
+        "button_style": "secondary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "180eccb0-0dc6-4276-94a2-3078a7aef97e": {
+      "type": "testimonials",
+      "blocks": {
+        "template--19102059135287__180eccb0-0dc6-4276-94a2-3078a7aef97e-16852492510a7e2569-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>These are the perfect safe speaker gifts to offer while supporting local cbr business. Offering a premium alcohol free drinks reflect on our organisation's inclusive culture that we want to portray.<\/p>",
+            "author": "Ana T.",
+            "author_info": "Australian Institute of Company Directors"
+          }
+        },
+        "template--19102059135287__180eccb0-0dc6-4276-94a2-3078a7aef97e-16852492510a7e2569-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>We have incorporated the Altina Drinks pop up bar into our last three customer events - each time Christina and Alan have presented specially BMW themed zero proof cocktails to our customers. Whether it has been an indoor or outdoor event, the pop up bar has enhanced the event experience and the feedback from customers has been extremely positive. They have been a dream to work with - so professional and reliable and nothing is too much trouble.<\/p>",
+            "author": "Martine P.",
+            "author_info": "BMW Canberra"
+          }
+        },
+        "b4b36d75-5314-4708-a052-c52e528c0cf5": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Thank you for helping us thank our amazing event volunteers recently with your delivery of Altina. They were very much appreciated and enjoyed, and we received thanks for such a beautiful and thoughtful gift (as a bottle of alcoholic wine doesn’t suit everyone!)<\/p><p> <\/p><p>You have been wonderful to deal with and go above and beyond to ensure we are happy with your products.<\/p>",
+            "author": "Anna F.",
+            "author_info": "The Australian National University"
+          }
+        },
+        "08cca8df-061c-41d8-9455-09cddeada9a4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>We chose Altina drinks as our client Christmas gifts because they are unique, healthy, festive and delicious. We also wanted to support a local Canberra business. They were very much appreciated and a great talking point.<\/p>",
+            "author": "Ilea B.",
+            "author_info": "NineTwoFive Interiors"
+          }
+        },
+        "template--19102059135287__180eccb0-0dc6-4276-94a2-3078a7aef97e-16852492510a7e2569-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Great gifts as part of our Do Good Hampers.<\/p>",
+            "author": "Caitlin S.",
+            "author_info": "Service One Alliance Bank"
+          }
+        }
+      },
+      "block_order": [
+        "template--19102059135287__180eccb0-0dc6-4276-94a2-3078a7aef97e-16852492510a7e2569-3",
+        "template--19102059135287__180eccb0-0dc6-4276-94a2-3078a7aef97e-16852492510a7e2569-2",
+        "b4b36d75-5314-4708-a052-c52e528c0cf5",
+        "08cca8df-061c-41d8-9455-09cddeada9a4",
+        "template--19102059135287__180eccb0-0dc6-4276-94a2-3078a7aef97e-16852492510a7e2569-4"
+      ],
+      "settings": {
+        "title": "CORPORATE Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5199dd61-b56f-43a6-b6a3-6a106fd24224",
+    "80ac37cb-df3d-48b7-98ac-34c31241e15f",
+    "d2603894-01bc-48d2-ba06-b33e1118f80f",
+    "51077f68-a653-448d-b201-a4487581a444",
+    "180eccb0-0dc6-4276-94a2-3078a7aef97e"
+  ]
+}

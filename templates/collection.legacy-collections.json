@@ -1,0 +1,98 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": false,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "{{ collection.metafields.custom.banner_promotion_title.value }}",
+            "text": "{{ collection.metafields.custom.banner_text.value }}",
+            "link": "",
+            "label": "",
+            "color_tint": "#414042",
+            "color_tint_opacity": 8,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "banner"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 1,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "101d9d72-e5d7-4c59-bc0e-58517fb4ce31": {
+          "type": "subcollections",
+          "settings": {
+            "subcollections_per_row": 4
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 3,
+            "rows_per_page": 20,
+            "mobile_flush_grid": false
+          }
+        },
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "101d9d72-e5d7-4c59-bc0e-58517fb4ce31",
+        "product_grid",
+        "collection_description"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "drawer",
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    },
+    "96d071da-f121-4170-82bf-b9f2fdd3de30": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "You May also like",
+        "home_featured_products": "our-new-look-collection",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "promo-grid",
+    "main-collection",
+    "96d071da-f121-4170-82bf-b9f2fdd3de30"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "123c7a85-1f16-4436-b383-1e712f6ad5f6": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "TRY THESE STUNNNING",
+        "title": "FESTIVE WINE MOCKTAILS",
+        "text": "<p>Got a kit? See below for recipes, tips, tricks and more!<\/p>",
+        "button_label": "GET THE KIT",
+        "button_link": "shopify:\/\/products\/altina-festive-mocktail-kit",
+        "video_url": "https:\/\/youtu.be\/Nlw42yIU47Q",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 450
+      }
+    },
+    "794079c6-7d21-49b9-85a7-6ad092aa6e0c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21585252319543__794079c6-7d21-49b9-85a7-6ad092aa6e0c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "The FESTIVE MOCKTAIL EXPERIENCE"
+          }
+        },
+        "template--21585252319543__794079c6-7d21-49b9-85a7-6ad092aa6e0c-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Fill the ice cube tray with non-alc. wine or fruit juice of your choice (see below for recommendations), then freeze. <\/p><p>Fill the baubles with the wine and chill until ready to serve.<\/p><p>Fill the wine glass with the ice balls, pop in a garnish and place the liquid bauble on top of the glass. <\/p><p>Then enjoy pouring the drink into the glass when you're ready to sip!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21585252319543__794079c6-7d21-49b9-85a7-6ad092aa6e0c-heading-1",
+        "template--21585252319543__794079c6-7d21-49b9-85a7-6ad092aa6e0c-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "dbfa3c53-b9f0-4081-aae0-ac26af58e668": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21585252319543__dbfa3c53-b9f0-4081-aae0-ac26af58e668-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Lychee and Finger Lime Mocktails",
+            "text": "<p>Muddle 3-4 Lychees in each glass before adding ice. Use ALTINA Finger Lime Sauvignon Blanc in the baubles.<\/p><p>Alternatively, freeze lychee juice in the ice moulds, top with Finger Lime Sauvignon Blanc and garnish with a fresh lychee.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21585252319543__dbfa3c53-b9f0-4081-aae0-ac26af58e668-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "CHERRY ROSE MOCKTAILS",
+            "text": "<p>Muddle 5-6 Cherries in each glass before adding ice. Use ALTINA Kakadu Plum in the baubles. Garnish with fresh cherries and a dried orange.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21585252319543__dbfa3c53-b9f0-4081-aae0-ac26af58e668-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Festive Sangria",
+            "text": "<p>Freeze orange juice in the ice moulds. Add to the glass together with dried oranges and cherries\/cranberries.<\/p><p>Fill the baubles with ALTINA Sansgria.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21585252319543__dbfa3c53-b9f0-4081-aae0-ac26af58e668-text_block-1",
+        "template--21585252319543__dbfa3c53-b9f0-4081-aae0-ac26af58e668-text_block-2",
+        "template--21585252319543__dbfa3c53-b9f0-4081-aae0-ac26af58e668-text_block-3"
+      ],
+      "settings": {
+        "title": "RECIPE SUGGESTIONS",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "7d4448ab-1714-41c7-ae34-5482f10efa06": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21585252319543__7d4448ab-1714-41c7-ae34-5482f10efa06-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "I HAVE A SWEET TOOTH",
+            "text": "<p>ALTINA's NA wines are are dry <br\/>(there's no added sugars). If you like a sweeter mocktail, we recommend muddling with a sweeter fruit (eg. lychee).<\/p><p>Alternatively, make a simple syrup (dissolve 1 part sugar in 1 part water) and add this to the glass before the ice.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21585252319543__7d4448ab-1714-41c7-ae34-5482f10efa06-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "How much ice should i use?",
+            "text": "<p>For a standard wine glass, to get the look above , we recommend at least one full ice ball tray per glass. You can freeze the ice balls ahead of time and store them in a container in the freezer.<\/p><p>Using wine or fruit juice in your ice mould stops the drink from getting too watery as the ice melts.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21585252319543__7d4448ab-1714-41c7-ae34-5482f10efa06-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "How do i use the ball ice mould?",
+            "text": "<p>Fill the bottom of the tray with liquid (approx 2\/3 full). Put the lid (the one with the holes) on and squeeze. The lid should stay in place, however feel free to place a rubber band around the middle of the tray.<\/p><p>To release the balls, gently bend the tray to loosen the ice balls. Lift the lid, invert and gently tap into a bowl\/container.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21585252319543__7d4448ab-1714-41c7-ae34-5482f10efa06-text_block-1",
+        "template--21585252319543__7d4448ab-1714-41c7-ae34-5482f10efa06-text_block-2",
+        "template--21585252319543__7d4448ab-1714-41c7-ae34-5482f10efa06-text_block-3"
+      ],
+      "settings": {
+        "title": "TIPS and FAQs",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "6a7839d6-d1e2-41cf-8e7e-b478a6e1065d": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mocktail_v2.jpg",
+        "image_mask": "rounded",
+        "image2": "shopify:\/\/shop_images\/Mocktail_setup.jpg",
+        "image2_mask": "rounded",
+        "subtitle": "",
+        "title": "Presentation is everything!",
+        "text": "<p>Make this festive mocktail experience as interactive as you like. <\/p><p>Put out a selection of fruit, garnishes, wine and ice balls.<\/p><p>Guests can fill their own baubles and glasses, then garnish and pour!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "123c7a85-1f16-4436-b383-1e712f6ad5f6",
+    "794079c6-7d21-49b9-85a7-6ad092aa6e0c",
+    "dbfa3c53-b9f0-4081-aae0-ac26af58e668",
+    "7d4448ab-1714-41c7-ae34-5482f10efa06",
+    "6a7839d6-d1e2-41cf-8e7e-b478a6e1065d"
+  ]
+}

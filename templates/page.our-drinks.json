@@ -1,0 +1,260 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "OUR INNOVATIVE",
+            "title": "NON-ALC. DRINKS",
+            "title_size": 69,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/Le_Blanc_Bottle_Styled_Landscape_small_c53877fc-a1eb-41e5-82d3-5fd5455b7dab.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 22
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": false
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "ALTINA ALCOHOL FREE DRINKS ARE MADE IN A NEW WAY"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>We combine the latest in green chemistry with the highest quality natural botanical ingredients to create a health-giving non-alcoholic experience like no other.<\/p><p>Our drinks are dry and complex, and every sip will reveal a new and interesting flavour nuance. Read about our founder Christina's process for creating these delicious alcohol free delights <a href=\"\/blogs\/blog\/how-is-altina-made\" target=\"_blank\" title=\"How is ALTINA made?\">here<\/a>.<\/p><p>Our zero proof formulations are vegan, gluten free, contain no added sugar, and of course no alcohol. Our alcohol-free ingredients are not only ethically sourced but chosen for their health-giving qualities.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "a642274a-be99-4ec5-8ae4-f8cb0ec690e5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19302344032567__a642274a-be99-4ec5-8ae4-f8cb0ec690e5-16852444368871148f-0": {
+          "type": "heading",
+          "settings": {
+            "title": "OUR NATIVE AUSTRALIAN SUPERFOOD INGREDIENTS"
+          }
+        },
+        "template--19302344032567__a642274a-be99-4ec5-8ae4-f8cb0ec690e5-16852444368871148f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19302344032567__a642274a-be99-4ec5-8ae4-f8cb0ec690e5-16852444368871148f-0",
+        "template--19302344032567__a642274a-be99-4ec5-8ae4-f8cb0ec690e5-16852444368871148f-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "05188168-b884-48fc-922e-6dd741f6e246": {
+      "type": "text-columns",
+      "blocks": {
+        "template--19302344032567__05188168-b884-48fc-922e-6dd741f6e246-16852469236e7814ba-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Altina_Finger_Lime_Small_3f5490c7-2371-44a0-bbef-13006ac67a1f.jpg",
+            "image_mask": "rounded-top",
+            "image_width": 650,
+            "title": "Finger Lime",
+            "text": "<p>Finger Limes are rich in calcium, magnesium, potassium, and phosphorus. They have 3x more vitamin C than a mandarin, plus are loaded with Vitamin E, an important antioxidant.<\/p><p>It's the hero of our Finger Lime Sauvignon Blanc, bringing a fresh, zesty aroma, and beautiful tart-sweet flavour on the front palate. Finishing with herbaceous undertones.<\/p>",
+            "button_label": "SHOP FINGER LIME SAUVIGNON BLANC",
+            "button_link": "shopify:\/\/products\/altina-finger-lime-sauvignon-blanc-6-x-750ml"
+          }
+        },
+        "template--19302344032567__05188168-b884-48fc-922e-6dd741f6e246-16852469236e7814ba-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/shutterstock_2211601851.jpg",
+            "image_mask": "rounded-top",
+            "image_width": 650,
+            "title": "KAKADU PLUM",
+            "text": "<p>Boasting the highest content of Vitamin C of any fruit, plus 5x more antioxidants than blueberries. It's also a source of lutein, iron, zinc, magnesium, potassium, calcium, copper, phosphorus, Vitamin E and folate. <\/p><p>It's the hero of our Kakadu Plum Rosé and brings tartness and astringency, with subtle aromas of citrus and floral musk notes.<\/p>",
+            "button_label": "SHOP KAKADU PLUM ROSÉ",
+            "button_link": "shopify:\/\/products\/altina-kakadu-plum-rose-6-x-750ml"
+          }
+        },
+        "template--19302344032567__05188168-b884-48fc-922e-6dd741f6e246-16852469236e7814ba-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Pepperberry.jpg",
+            "image_mask": "rounded-top",
+            "image_width": 650,
+            "title": "PEPPERBERRY",
+            "text": "<p>A rich source of antioxidants, and also contains vitamin E, folate, zinc, calcium, magnesium, iron and lutein. Due to its' polygodial content, it has been used for it's anti-inflammatory and antiseptic properties.<\/p><p>It's the hero of our Pepperberry Shiraz and brings an initial burst of blackcurrant fruit, and is responsible for the spicy, peppery notes on the back palate.<\/p>",
+            "button_label": "SHOP PEPPERBERRY SHIRAZ",
+            "button_link": "shopify:\/\/products\/altina-pepperberry-shiraz-6-x-750ml"
+          }
+        },
+        "be7e13d0-8015-4d91-949a-aa51f084c645": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/strawberry_gum.jpg",
+            "image_mask": "rounded-top",
+            "image_width": 650,
+            "title": "FORESTBERRY",
+            "text": "<p>Also known as Strawberry Gum, the leaves of this incredible eucalyptus are rich in antioxidants. They're traditionally used for their antifungal and antibiotic properties.<\/p><p>It's the hero of our Le Blanc, bringing an incredible rich berry scent, with spiced cinnamon notes on the back palate.   <\/p>",
+            "button_label": "SHOP LE BLANC",
+            "button_link": "shopify:\/\/products\/le-blanc-bottles"
+          }
+        },
+        "141e0ee0-7452-4b05-8a63-cbcf2c949922": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Native_Hibiscus.jpg",
+            "image_mask": "rounded-top",
+            "image_width": 650,
+            "title": "ROSELLA",
+            "text": "<p>Contains high levels of flavonoids and antioxidants such as Vitamin C and anthocyanins. It's also rich in minerals including calcium, magnesium, phosphorus, potassium and iron.<\/p><p>It's the hero of our La Vie En Rose, bringing that gorgeous pink hue, refreshing tartness and notes of rhubarb.<\/p>",
+            "button_label": "SHOP LA VIE EN ROSE",
+            "button_link": "shopify:\/\/products\/la-vie-en-rose"
+          }
+        },
+        "de998600-3482-4b1a-8753-8a99038d4d5f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Riberry.jpg",
+            "image_mask": "rounded-top",
+            "image_width": 650,
+            "title": "RIBERRY",
+            "text": "<p>Also know as Lilly Pilly, they have three times the folate of a blueberry are rich in manganese and contain high levels of anthocyanin.<\/p><p>It's the hero of our Sansgria, bringing a refreshing, spicy flavour, with a lingering hint of clove and cinnamon and spiced honey to finish.<\/p>",
+            "button_label": "SHOP SANSGRIA",
+            "button_link": "shopify:\/\/products\/sansgria-bottles-1"
+          }
+        }
+      },
+      "block_order": [
+        "template--19302344032567__05188168-b884-48fc-922e-6dd741f6e246-16852469236e7814ba-0",
+        "template--19302344032567__05188168-b884-48fc-922e-6dd741f6e246-16852469236e7814ba-1",
+        "template--19302344032567__05188168-b884-48fc-922e-6dd741f6e246-16852469236e7814ba-2",
+        "be7e13d0-8015-4d91-949a-aa51f084c645",
+        "141e0ee0-7452-4b05-8a63-cbcf2c949922",
+        "de998600-3482-4b1a-8753-8a99038d4d5f"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "cd6dbe42-f84c-475d-b2a7-221e36244b55": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--19302344032567__cd6dbe42-f84c-475d-b2a7-221e36244b55-1685246960b0ce548d-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "charity",
+            "title": "Better For You",
+            "text": "<p>All our non-alc. wines feature health-giving botanicals and no artificial ingredients and are Vegan and Gluten Free.<\/p>"
+          }
+        },
+        "template--19302344032567__cd6dbe42-f84c-475d-b2a7-221e36244b55-1685246960b0ce548d-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "thumbs-up",
+            "title": "No Added Sugars",
+            "text": "<p>Our non alcoholic drinks have no added sugars, juice concentrates or sweeteners and are low in calories.<\/p>"
+          }
+        },
+        "template--19302344032567__cd6dbe42-f84c-475d-b2a7-221e36244b55-1685246960b0ce548d-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "Flat rate shipping",
+            "text": "<p>We offer free shipping Australia wide for orders over $140, or $8 shipping for all other orders.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19302344032567__cd6dbe42-f84c-475d-b2a7-221e36244b55-1685246960b0ce548d-0",
+        "template--19302344032567__cd6dbe42-f84c-475d-b2a7-221e36244b55-1685246960b0ce548d-1",
+        "template--19302344032567__cd6dbe42-f84c-475d-b2a7-221e36244b55-1685246960b0ce548d-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "TRY OUR BUNDLES",
+        "home_featured_products": "our-new-look-collection",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow",
+    "rich-text",
+    "a642274a-be99-4ec5-8ae4-f8cb0ec690e5",
+    "05188168-b884-48fc-922e-6dd741f6e246",
+    "cd6dbe42-f84c-475d-b2a7-221e36244b55",
+    "featured-collection"
+  ]
+}

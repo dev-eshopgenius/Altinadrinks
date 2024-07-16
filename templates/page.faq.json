@@ -1,0 +1,277 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "faq-0": {
+          "type": "rich-text",
+          "settings": {
+            "title": "OUR DRINKS",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-1": {
+          "type": "question",
+          "settings": {
+            "title": "Where can I find ingredients and nutrition information?",
+            "text": "<p>You can find all of that information <a href=\"\/pages\/ingredients-and-nutrition-information\" target=\"_blank\" title=\"Altina Ingredients and Nutrition Information\">here.<\/a><\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "question",
+          "settings": {
+            "title": "Is it normal for the bottles to contain sediment or floaty bits?",
+            "text": "<p>As we don't use artificial stabilisers in our drinks, sediment can sometimes form. It does not affect the taste, quality or shelf life of the drinks. If left upright, it should settle to the bottom.<\/p>"
+          }
+        },
+        "faq-4": {
+          "type": "question",
+          "settings": {
+            "title": "Do I need to mix ALTINA?",
+            "text": "<p>Altina is a collection of delicious botanically built non-alcoholic wines. They are made from natural ingredients and Australian native botanicals and are designed to be enjoyed straight from the bottle.<\/p><p>We recommend chilling, and serving in a fancy glass.<\/p>"
+          }
+        },
+        "e6e37b05-8d57-4f67-8ce9-cedc089fda97": {
+          "type": "question",
+          "settings": {
+            "title": "Do your drinks contain cayenne pepper or capsicum?",
+            "text": "<p>Yes, all of our drinks may contain capsaicin.<\/p>"
+          }
+        },
+        "d4e574f8-32d4-4c04-ba77-0ade1492ebe1": {
+          "type": "question",
+          "settings": {
+            "title": "Do your drinks contain sulphites?",
+            "text": "<p>La Vie En Rose and Le Blanc are sulphite free. Our other wines do contain sulphites.<\/p>"
+          }
+        },
+        "a5d3e8bc-61f8-4da4-8212-6b1e9a9e3b8b": {
+          "type": "question",
+          "settings": {
+            "title": "Do your drinks contain artificial sweeteners?",
+            "text": "<p>We don't use any artificial sweeteners (or added sugar) in our drinks.<\/p>"
+          }
+        },
+        "2aacc95f-d731-421e-91c3-936fa0a7dba7": {
+          "type": "question",
+          "settings": {
+            "title": "Do your drinks contain preservatives?",
+            "text": "<p>Our drinks do contain preservatives. You can find the ingredient lists for all of our drinks <a href=\"\/pages\/ingredients-and-nutrition-information\" target=\"_blank\" title=\"Altina Ingredients and Nutrition Information\">here.<\/a><\/p>"
+          }
+        },
+        "d7e3f20f-a976-4557-9fc8-9f7e1cf669ff": {
+          "type": "question",
+          "settings": {
+            "title": "What is the shelf life of the bottle?",
+            "text": "<p>Altina has a shelf life of up to 2 years unopened. <\/p><p>Check the best before date on the can\/bottle. Once opened, refrigerate and use within 2 days.<\/p>"
+          }
+        },
+        "03c9088f-2699-43db-bd56-9d830662a84a": {
+          "type": "question",
+          "settings": {
+            "title": "Is Altina safe to drink when pregnant?",
+            "text": "<p>Altina is a collection of delicious botanically built non-alcoholic wines. They are made from natural ingredients and Australian native botanicals.  Our entire collection is non-alcoholic (contains less than 0.02% ABV), and no added sugar.<\/p><p><\/p><p>Altina Le Blanc contains green tea.  The caffeine in this product is less than 10mg per litre which is very minimal.<\/p><p><\/p><p>If you have any concerns about drinking Altina during pregnancy, please speak to your Doctor.<\/p>"
+          }
+        },
+        "278a8e31-bc50-4327-b3df-269d71d81ef0": {
+          "type": "question",
+          "settings": {
+            "title": "Where can I buy Altina in store?",
+            "text": "<p>Check out our <a href=\"\/pages\/our-stockists\" target=\"_blank\" title=\"Our Stockists\">stockist list<\/a>.<\/p>"
+          }
+        },
+        "0ea32fcd-1f79-426c-86b1-212ecd4f1d72": {
+          "type": "question",
+          "settings": {
+            "title": "Can I taste your drinks before buying?",
+            "text": "<p>We are often at markets or events around Australia where we offer free tastings. Keep an eye on our social pages to find out where we'll be next.<\/p><p>We also have some taster pack options available to purchase. These packs are great for trying a few of our drinks to see which ones you like before committing to a bigger order. Find our Taster Collection <a href=\"\/collections\/the-taster-collection\" target=\"_blank\" title=\"The Taster Collection\">here.<\/a><\/p>"
+          }
+        },
+        "b4bedad4-2d29-498c-b8b1-2c20168b0929": {
+          "type": "question",
+          "settings": {
+            "title": "Can I order just one bottle?",
+            "text": "<p>Our minimum order quantity is 3 bottles. You can build your own 3 bottle pack <a href=\"https:\/\/altinadrinks.com\/products\/build-your-own-3-bottle-bundle\" title=\"https:\/\/altinadrinks.com\/products\/build-your-own-3-bottle-bundle\">here.<\/a><\/p><p>Otherwise, many of our stockists sell single bottles. You can use our <a href=\"https:\/\/altinadrinks.com\/pages\/stockists\" title=\"https:\/\/altinadrinks.com\/pages\/stockists\">stockist locator<\/a> to find your closest stockist.<\/p>"
+          }
+        },
+        "faq-3": {
+          "type": "rich-text",
+          "settings": {
+            "title": "SHIPPING & DELIVERY",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "4b4b00ed-9b86-4740-85c4-b3137a0af9ce": {
+          "type": "question",
+          "settings": {
+            "title": "How long does it take for online orders to arrive?",
+            "text": "<p>All orders received will generally be dispatched within 48 hours. Our courier generally delivers to metro areas within 2-3 days. Please check our <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">Shipping Policy<\/a> for the most up to date shipping information.<\/p>"
+          }
+        },
+        "65c19f6c-7812-48fd-a9c2-d02ecc849ad7": {
+          "type": "question",
+          "settings": {
+            "title": "Can I request express shipping?",
+            "text": "<p>Yes, there will be an option for express shipping at checkout.<\/p>"
+          }
+        },
+        "bf50e1de-0f33-49a9-a7e7-b9b92583b25b": {
+          "type": "question",
+          "settings": {
+            "title": "What is your refund policy?",
+            "text": "<p>Check out our <a href=\"\/policies\/refund-policy\" target=\"_blank\" title=\"Refund Policy\">refund policy<\/a> for more information.<\/p>"
+          }
+        },
+        "question_qqnYMP": {
+          "type": "question",
+          "settings": {
+            "title": "How is my delivery carbon neutral?",
+            "text": "<p>For every order we receive, a formula is used to calculate the estimated shipping emissions. Based on those estimates, a portion of our revenue goes to carbon removal companies that have been vetted by scientists from Carbon Direct. Those companies use that money to remove however much carbon our shipments created. Any extra funds go toward the further development of carbon removal technologies. You can read more about our committment <a href=\"\/pages\/climate-commitment\" title=\"Climate Commitment\">here<\/a>.<\/p>"
+          }
+        },
+        "rich_text_pfhN4c": {
+          "type": "rich-text",
+          "settings": {
+            "title": "ALTINA PACKAGE PROTECTION",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "question_qUWhdR": {
+          "type": "question",
+          "settings": {
+            "title": "What is ALTINA Package Protection?",
+            "text": "<p>ALTINA Package Protection is an optional insurance add-on that can help cover the cost of lost, damaged or stolen orders. See our ALTINA Package Protection Policy <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">here<\/a>.<\/p>"
+          }
+        },
+        "question_7MxhMn": {
+          "type": "question",
+          "settings": {
+            "title": "How much does it cost?",
+            "text": "<p>ALTINA Package Protection varies depending on the price of your order. It will automatically calculate once you begin to add items to your cart. For most order it costs between $1-5.<\/p>"
+          }
+        },
+        "question_HVYbB7": {
+          "type": "question",
+          "settings": {
+            "title": "Do I need Package Protection?",
+            "text": "<p>You don’t, but it can help speed up the process of resolving issues related to shipping. And in some cases where packages may not normally be covered (such as if your order is stolen after delivery), Pacakge Protection can help.<\/p>"
+          }
+        },
+        "question_Jgppfw": {
+          "type": "question",
+          "settings": {
+            "title": "How do I use my ALTINA Package Protection?",
+            "text": "<p>Please send an email to orders@altinadrinks.com to lodge a claim, stating your order number and a description of the issue. For more detailed information on what's covered, see our ALTINA Package Protection Policy <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">here<\/a>.<\/p>"
+          }
+        },
+        "question_GGVmFp": {
+          "type": "question",
+          "settings": {
+            "title": "Will ALTINA reach out to me directly?",
+            "text": "<p>If we're notified by our carrier that your package has been lost or damaged in transit, we'll get in touch with you to inform you of your replacement order number.<\/p><p>If you'd like to file a claim, please reach out to orders@altinadrinks.com<\/p>"
+          }
+        },
+        "b67da18f-2f0e-407e-bb0e-f918f0a8bcd8": {
+          "type": "rich-text",
+          "settings": {
+            "title": "SUBSCRIPTION",
+            "text": "<p>Learn more about our Subscribe and Save option <a href=\"\/collections\/subscribe-and-save\" target=\"_blank\" title=\"Subscribe and Save\">here<\/a>.<\/p>",
+            "align_text": "left"
+          }
+        },
+        "a2b7194f-8f29-4e5c-90ea-a48480414338": {
+          "type": "question",
+          "settings": {
+            "title": "What is a subscription?",
+            "text": "<p>Get your favourite drinks automatically delivered to your door every 1, 2 or 3 months. <\/p><p>Plus, there's a few other perks too:<\/p><p>* Regular deliveries: Choose to get a delivery of your favourite drinks every 1,2 or 3 months.<\/p><p>* 10% off our regular prices: Prices starting as low as $16.49 per bottle, and $4.50 per can<\/p><p>* Free delivery nationwide<\/p><p>*Access to bonuses and perks like trying new flavours first and getting exclusive access to events like our Zero Proof Festival.<\/p>"
+          }
+        },
+        "9a0fbdde-de5d-4b6e-b9ed-d0d5379239a5": {
+          "type": "question",
+          "settings": {
+            "title": "Can I cancel or change my subscription?",
+            "text": "<p>Yes! You'll create an account when you make your first subscription purchase. Simply log in to make any of these changes. Or get in touch with us at orders@altinadrinks.com for VIP service.<\/p>"
+          }
+        },
+        "7873861e-0356-4dbe-b3e5-11db6f1b04b9": {
+          "type": "question",
+          "settings": {
+            "title": "What happens if my credit card expires or is lost?",
+            "text": "<p>Your order won't be able to be processed and you'll receive an email requesting you to log in to your account and update your details. Alternatively, one of our team members will get in touch to help get it updated for you.<\/p>"
+          }
+        },
+        "6ddd4b8c-f62b-4999-8a4a-be2e71fde3c2": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Contact & Support",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "8901a615-286c-4224-bb03-4af1f4b9eef1": {
+          "type": "question",
+          "settings": {
+            "title": "What's the best way to contact you?",
+            "text": "<p>You can contact us at orders@altinadrinks.com<\/p>"
+          }
+        },
+        "4c7889f9-72a1-4b05-ad71-688e1a612341": {
+          "type": "question",
+          "settings": {
+            "title": "I am media or press, who should I contact?",
+            "text": "<p>You can contact us at orders@altinadrinks.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "faq-2",
+        "faq-4",
+        "e6e37b05-8d57-4f67-8ce9-cedc089fda97",
+        "d4e574f8-32d4-4c04-ba77-0ade1492ebe1",
+        "a5d3e8bc-61f8-4da4-8212-6b1e9a9e3b8b",
+        "2aacc95f-d731-421e-91c3-936fa0a7dba7",
+        "d7e3f20f-a976-4557-9fc8-9f7e1cf669ff",
+        "03c9088f-2699-43db-bd56-9d830662a84a",
+        "278a8e31-bc50-4327-b3df-269d71d81ef0",
+        "0ea32fcd-1f79-426c-86b1-212ecd4f1d72",
+        "b4bedad4-2d29-498c-b8b1-2c20168b0929",
+        "faq-3",
+        "4b4b00ed-9b86-4740-85c4-b3137a0af9ce",
+        "65c19f6c-7812-48fd-a9c2-d02ecc849ad7",
+        "bf50e1de-0f33-49a9-a7e7-b9b92583b25b",
+        "question_qqnYMP",
+        "rich_text_pfhN4c",
+        "question_qUWhdR",
+        "question_7MxhMn",
+        "question_HVYbB7",
+        "question_Jgppfw",
+        "question_GGVmFp",
+        "b67da18f-2f0e-407e-bb0e-f918f0a8bcd8",
+        "a2b7194f-8f29-4e5c-90ea-a48480414338",
+        "9a0fbdde-de5d-4b6e-b9ed-d0d5379239a5",
+        "7873861e-0356-4dbe-b3e5-11db6f1b04b9",
+        "6ddd4b8c-f62b-4999-8a4a-be2e71fde3c2",
+        "8901a615-286c-4224-bb03-4af1f4b9eef1",
+        "4c7889f9-72a1-4b05-ad71-688e1a612341"
+      ],
+      "settings": {
+        "title": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq"
+  ]
+}

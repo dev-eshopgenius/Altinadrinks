@@ -1,0 +1,117 @@
+{
+  "sections": {
+    "5e63c272-5d6f-4c29-94df-943f0ece7815": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Warehouse_Keys.jpg",
+        "image_mask": "none",
+        "image2_mask": "square",
+        "subtitle": "POV: You Risk Your Life Savings and Get the Keys to Your Own Production Facility",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": false
+      }
+    },
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "image_hero": false,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "blog": "",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "1692834184e574f854": {
+      "type": "apps",
+      "blocks": {
+        "649d3821-724e-4861-b2a7-bada301fba30": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Ue2EzH"
+          }
+        }
+      },
+      "block_order": [
+        "649d3821-724e-4861-b2a7-bada301fba30"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "f8e456ae-ce29-4ed4-88cd-ba4447da464a": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-taster-collection",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-liberate-collection",
+            "title": "THE STILL COLLECTION",
+            "focal_point": "center center"
+          }
+        },
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-sparkling-collection",
+            "title": "THE SPARKLING COLLECTION",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-1",
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-2",
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-3"
+      ],
+      "settings": {
+        "title": "DISCOVER OUR DRINKS",
+        "divider": true,
+        "per_row": 3,
+        "enable_gutter": true
+      }
+    }
+  },
+  "order": [
+    "5e63c272-5d6f-4c29-94df-943f0ece7815",
+    "main",
+    "blog-posts",
+    "1692834184e574f854",
+    "f8e456ae-ce29-4ed4-88cd-ba4447da464a"
+  ]
+}

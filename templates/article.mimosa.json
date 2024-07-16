@@ -1,0 +1,202 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "image_hero": true,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "blog": "",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "1692834184e574f854": {
+      "type": "apps",
+      "blocks": {
+        "649d3821-724e-4861-b2a7-bada301fba30": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "disabled": true,
+          "settings": {
+            "formId": "Ue2EzH"
+          }
+        }
+      },
+      "block_order": [
+        "649d3821-724e-4861-b2a7-bada301fba30"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "f8e456ae-ce29-4ed4-88cd-ba4447da464a": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-taster-collection",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-liberate-collection",
+            "title": "THE STILL COLLECTION",
+            "focal_point": "center center"
+          }
+        },
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-sparkling-collection",
+            "title": "THE SPARKLING COLLECTION",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-1",
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-2",
+        "template--19102058709303__f8e456ae-ce29-4ed4-88cd-ba4447da464a-collection-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "DISCOVER OUR DRINKS",
+        "divider": true,
+        "per_row": 3,
+        "enable_gutter": true
+      }
+    },
+    "featured_product_NApNQT": {
+      "type": "featured-product",
+      "blocks": {
+        "price_LG3M98": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_8UNrKp": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_zxpj9H": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_yA6mV3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_LG3M98",
+        "description_8UNrKp",
+        "variant_picker_zxpj9H",
+        "buy_buttons_yA6mV3"
+      ],
+      "settings": {
+        "featured_product": "altina-sparkling-brut",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "featured_product_Jr3PPB": {
+      "type": "featured-product",
+      "blocks": {
+        "price_33GL7b": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_jbDLPt": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_BypUdc": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_fDLTtA": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_33GL7b",
+        "description_jbDLPt",
+        "variant_picker_BypUdc",
+        "buy_buttons_fDLTtA"
+      ],
+      "settings": {
+        "featured_product": "giant-silicone-ice-cube-tray",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "blog-posts",
+    "1692834184e574f854",
+    "f8e456ae-ce29-4ed4-88cd-ba4447da464a",
+    "featured_product_NApNQT",
+    "featured_product_Jr3PPB"
+  ]
+}

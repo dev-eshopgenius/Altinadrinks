@@ -1,0 +1,33 @@
+{
+  "sections": {
+    "main": {
+      "type": "blog-template",
+      "settings": {
+        "blog_show_tag_filter": false,
+        "blog_show_rss": false,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": true,
+        "blog_show_author": false,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide"
+      }
+    },
+    "301ceaf5-6937-4ce7-871a-39c62559c2fc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Try Our Bestsellers",
+        "home_featured_products": "our-new-look-collection",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "301ceaf5-6937-4ce7-871a-39c62559c2fc"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "rich_text_iW3k7h": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JRNAbL": {
+          "type": "heading",
+          "settings": {
+            "title": "SUBSCRIBE AND SAVE"
+          }
+        },
+        "text_nTphA3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Get your favourite drinks delivered to your door every 1, 2 or 3 months.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JRNAbL",
+        "text_nTphA3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_with_icons_bJjz9G": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_LiQbmA": {
+          "type": "text_block",
+          "settings": {
+            "icon": "wallet",
+            "title": "SAVE 10% ON EVERY ORDER",
+            "text": "<p>On every subscription order, you get 10% off our regular prices. Prices starting as low as $18 per bottle, and $4.50 per can<\/p>"
+          }
+        },
+        "text_block_kFEgbn": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "FREE SHIPPING",
+            "text": "<p>Products are shipped to you free, on your schedule.<\/p>"
+          }
+        },
+        "text_block_rNctJT": {
+          "type": "text_block",
+          "settings": {
+            "icon": "thumbs-up",
+            "title": "EASY AND FLEXIBLE",
+            "text": "<p>Swap products, skip or gift a shipment, update your details and more, from your own dashboard. Or drop us an email and we'll help you out.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_LiQbmA",
+        "text_block_kFEgbn",
+        "text_block_rNctJT"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_and_image_rNeBGX": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Capture.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "SIGN UP TODAY",
+        "title": "CHOOSE SUBSCRIBE AND SAVE",
+        "text": "<p>Then select your delivery frequency and proceed to checkout.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": true,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_dq7cWU": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "subscribe-and-save",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_iW3k7h",
+    "text_with_icons_bJjz9G",
+    "text_and_image_rNeBGX",
+    "featured_collection_dq7cWU"
+  ]
+}
