@@ -1039,6 +1039,11 @@
         "type": "checkbox",
         "id": "disable_animations",
         "label": "t:settings_schema.extras.settings.disable_animations.label"
+      },
+      {
+        "type": "text",
+        "id": "recharge_text",
+        "label": "Subscription Recharge Text"
       }
     ]
   }

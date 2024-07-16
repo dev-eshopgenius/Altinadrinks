@@ -86,7 +86,8 @@
   {%- if shop.enabled_currencies.size > 1 -%}
     <link rel="stylesheet" href="{{ 'country-flags.css' | asset_url | split: '?' | first }}">
   {%- endif -%}
-
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" defer="defer"></script>
   <script src="{{ 'theme.js' | asset_url }}" defer="defer"></script>
 
   {%- if request.page_type contains 'customers/' -%}
@@ -98,7 +99,11 @@
   {% endif %}
   {% render 'okendo-preview-head' %}
 
-  
+  <script>
+    window.settings = {
+      "rcsubscribe_text": {{ settings.recharge_text | json }}
+    }
+  </script>
 
 </head>
 

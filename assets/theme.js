@@ -8352,3 +8352,7 @@ theme.recentlyViewed = {
   });
 
 })();
+
+setTimeout(function() {
+  $('.rc-radio__subscription').html(`${window.settings.rcsubscribe_text}`);
+},900)
